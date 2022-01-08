@@ -1,0 +1,14 @@
+li {
+  list-style: none;
+}
+
+.CastPage__img {
+  display: flex;
+  width: 100px;
+  margin-right: 20px;
+}
+
+.CastPage__list__item {
+  display: flex;
+  margin-bottom: 20px;
+}

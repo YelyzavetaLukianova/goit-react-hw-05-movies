@@ -1,0 +1,15 @@
+li {
+  list-style: none;
+}
+
+.ReviewsPage__author {
+  size: 55px;
+  font-weight: 800;
+  text-decoration: underline;
+}
+
+.ReviewsPage__content {
+  size: 25px;
+  font-weight: 500;
+  font-style: italic;
+}
